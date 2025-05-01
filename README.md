@@ -1,4 +1,4 @@
-## 📚 Tutorial de YouTube
+
 
 > [!NOTE]  
 > Este repositorio forma parte de una serie de prácticas que sigo a través de tutoriales en YouTube.
